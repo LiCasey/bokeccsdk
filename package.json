@@ -1,13 +1,12 @@
 {
-  "name": "cclivesdk",
+  "name": "bokeccsdk",
   "version": "1.0.0",
   "description": "cc直播sdk",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "cclive"
+    "bokecc"
   ],
   "dependencies": {
     "md5": "^2.1.0",
